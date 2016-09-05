@@ -1,0 +1,1 @@
+Simple example from a String in the app representing employees, it uses JSONObject in order to transform it to a JSONArray, then it does some parse with method optString() and similar and finally it presents the results in a TextView
