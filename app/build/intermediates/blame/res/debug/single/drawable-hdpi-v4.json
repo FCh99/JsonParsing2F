@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/faustocheca/Documents/ANDROID/TEMP_Carlos/JsonParsing2F/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/faustocheca/Documents/ANDROID/TEMP_Carlos/JsonParsing2F/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/faustocheca/Documents/ANDROID/MY_PROJECTS_FOLDER/JsonParsing2F/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/faustocheca/Documents/ANDROID/MY_PROJECTS_FOLDER/JsonParsing2F/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
